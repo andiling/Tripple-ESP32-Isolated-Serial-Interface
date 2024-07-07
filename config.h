@@ -1,5 +1,3 @@
-// config: ////////////////////////////////////////////////////////////
-// 
 //#define BLUETOOTH
 #define OTA_HANDLER 
 #define MODE_AP // phone connects directly to ESP
